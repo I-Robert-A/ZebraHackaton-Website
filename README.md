@@ -75,7 +75,4 @@ This repository serves as a **portfolio reference**, while the original hackatho
 
 ---
 
-## License
 
-No license is specified for this project.
-Please contact the original authors for reuse or redistribution permissions.
